@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Carolin.
 
-<!--
-**CarolinJeba/CarolinJeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer. I enjoy creating websites using front-end technologies.
 
-Here are some ideas to get you started:
+### Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ReactJS
+* Typescript
+* HTML5 CSS3
+
+
+![Carolin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinJeba&count_private=true&show_icons=true)
+
+### 📫 Reach me: https://www.linkedin.com/in/r-carolinjeba/
