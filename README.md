@@ -1,11 +1,17 @@
 ### Hey there 👋 I'm Carolin.
 
-I'm a web UI developer. I enjoy creating websites using front-end technologies.
+I'm a web developer. I enjoy creating websites.
 
-### Skills 
+### Skills & technologies
 
+* Problem solving
+* Javascript
 * ReactJS
-* Typescript
 * HTML5 CSS3
+* Typescript
+* State management
+* GraphQL
+* NodeJS
+* Tailwind CSS
 
 ### 📫 Reach me @ https://www.linkedin.com/in/r-carolinjeba/
